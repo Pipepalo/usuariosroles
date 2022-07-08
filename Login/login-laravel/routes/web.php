@@ -32,3 +32,7 @@ Route::get('/login', [LoginController::class, 'show']);
 Route::get('/home', [HomeController::class, 'show']);
 
 Route::get('/logout', [LogoutController::class, 'logout']);
+
+Route::get('/', function () {
+    return view('/encuesta.encuesta');
+});
