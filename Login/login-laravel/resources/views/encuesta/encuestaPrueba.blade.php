@@ -1,21 +1,22 @@
 @extends('layouts.app-master')
 <title>Encuesta</title>
-<meta name="csrf-token" content="{{ csrf_token() }}">
+
+<script src="{{ url('/assets/js/jquery-3.4.1.min.js') }}"></script>
 <link rel="stylesheet" href="{{ url('/assets/css/estiloInicio.css') }}">
 @section('content')
     <p class="titulo">Registro de inventario faltante</p>
 
     <div class="form-group formas">
-        <label class="datos">Codigo</label>
+        <label for="exampleInputEmail1" class="datos">Codigo</label>
         <input type="text" class="form-control" id="doc" placeholder="Codigo" onblur="buscar();">
     </div>
     <div class="form-group formas">
-        <label class="datos">Nombre del producto</label>
+        <label for="exampleInputEmail1" class="datos">Nombre del producto</label>
         <input type="text" class="form-control" id="nombre" placeholder="Nombre" disabled>
     </div>
 
     <div class="form-check checkName">
-        <input class="form-check-input" type="checkbox" id="flexCheckChecked" onchange="habilitarInputTexto();" checked>
+        <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked onchange="habilitarInputTexto();">
         <label class="form-check-label" for="flexCheckChecked">
             Confirme si es correcto el nombre
         </label>
@@ -24,15 +25,11 @@
     <div class="enviar">
         <button type="submit" class="btn btn-success mb-3" onclick="verificarDatos();">Enviar</button>
     </div>
+    
 
 <script>
 	function buscar(){
         doc = $("#doc").val();
-        if(parseInt(doc) == 0){
-            alert("Ingrese el nombre manualmente");
-            habilitarInputTexto();
-            return;
-        }
         if(parseInt(doc) > 30000 || doc.length != 6){
             alert("Codigo no cumple con el formato");
             return;
@@ -43,19 +40,21 @@
         };
 
         $.ajax({
-            headers: { 'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content') },
             data: parametros,
-            method: "POST",
-            url: "{{ route('encuesta.busqueda') }}",
+            dataType: 'json',
+            url: 'busqueda.php',
+            type: 'POST',
         beforesend: function(){
             alert("enviando");
         },
 
         success: function(valores){
             $("#nombre").val(valores.nombre);
-
+            
+            
         },
         error: function(error){
+            alert(error);
             alert("Error");
         }
         });
@@ -73,7 +72,6 @@
     function verificarDatos(){
         doc = $("#doc").val(); 
         name = $("#nombre").val();
-
         if(doc != "" && name != ""){
             if(parseInt(doc, 10) < 30000 || doc.length == 6){
                 var parametros = {
@@ -81,24 +79,23 @@
                     "nombre" : name
                 }
                 $.ajax({ 
-                    headers: { 'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content') },
                     data: parametros,
-                    method: 'POST',
-                    url: "{{ route('encuesta.insertarDatos') }}",
+                    dataType: 'json',
+                    url: 'insertarDatos.php',
+                    type: 'POST',
                     beforesend: function(){
                         $('#mostrar_mensaje').html("Mensaje antes de Enviar");
                     },
 
                     success: function(resultado){
-                        alert("Entrando");
-                        if(resultado == 1){
+                        if(resultado){
                             alert("Aniadido correctamente");
                         }
                         else{
                             alert("No se pudo aniadir");
                         }
                     },
-                    error: function(){
+                    error: function(resultado){
                         alert("Error");
                     }
                 });

@@ -1,0 +1,55 @@
+div.tarjeta{
+    padding-top: 20px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+header{
+    position: sticky;
+    top: 0;
+}
+
+div.formas{
+    padding-top: 20px;
+    width: 500px;
+    margin: 0 auto;
+}
+p.titulo{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-top: 20px;   
+}
+p.inicie{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-top: 20px;  
+}
+p.recursos{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+div.checkName{
+    padding-top: 30px;
+    margin: 0 auto;
+    text-align: center;
+    width: 200px;
+}
+
+div.enviar{
+    padding-top: 40px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+label.confirme{
+    text-align: center;
+}
+
+label.datos{
+    padding-bottom: 20px;
+}

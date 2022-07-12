@@ -5,6 +5,8 @@ use App\Http\Controllers\RegisterController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\LogoutController;
+use App\Http\Controllers\EncuestaController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -33,6 +35,14 @@ Route::get('/home', [HomeController::class, 'show']);
 
 Route::get('/logout', [LogoutController::class, 'logout']);
 
-Route::get('/', function () {
-    return view('/encuesta.encuesta');
+Route::get('/encuesta', [EncuestaController::class, 'show']);
+
+
+Route::post('encuesta/insertar', [EncuestaController::class, 'insertarDatos'])->name('encuesta.insertarDatos');
+
+Route::post('/encuesta', [EncuestaController::class, 'buscar'])->name('encuesta.busqueda');
+
+
+Route::get('/encuestaP', function () {
+    return view('/encuesta.encuestaPrueba');
 });

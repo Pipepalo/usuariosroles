@@ -1,0 +1,13 @@
+body{
+    align-content: center;
+    margin: 0 auto;
+}
+
+p.indicaciones{
+    text-align: center;
+}
+
+div.formas{
+    padding-top: 10px;
+    width: max-content;
+}

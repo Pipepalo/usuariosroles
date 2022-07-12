@@ -1,0 +1,35 @@
+form.registro{
+    width: 400px;
+    align-content: center;
+    margin: 0 auto;
+}
+
+header{
+    position: sticky;
+    top: 0;
+}
+
+div.envio{
+    padding-top: 40px;
+    text-align: center;
+}
+
+div.formas{
+    padding-top: 10px;
+}
+
+label.datos{
+    padding-bottom: 10px;
+}
+
+p.titulo{
+    font-size: 25px;
+    padding-top: 90px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div.envio{
+    padding-bottom: 25px;
+}
