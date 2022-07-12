@@ -3,7 +3,7 @@
 <meta name="csrf-token" content="{{ csrf_token() }}">
 <link rel="stylesheet" href="{{ url('/assets/css/estiloInicio.css') }}">
 @section('content')
-    <p class="titulo">Registro de inventario faltante</p>
+    <p class="titulo">Registro de agotados y no codificados</p>
 
     <div class="form-group formas">
         <label class="datos">Codigo</label>
@@ -105,7 +105,13 @@
                 location.reload(true);
             }
             else{
-                alert("Codigo no cumple con el formato");
+                if(parseInt(doc, 10) > 30000){
+                    alert("Codigo supera los 30000");
+                }
+                else if(doc.length != 6){
+                    alert("El codigo es diferente a 6 carácteres");
+                }
+                
             }
         }
         else{

@@ -23,6 +23,7 @@
     }
     .footer-logo {
         display:block;
+        
         margin:auto;	
         height: 90px;
         padding-top: 1px;

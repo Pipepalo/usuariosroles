@@ -62,10 +62,10 @@ class EncuestaController extends Controller
         
             $sql =  "INSERT INTO vtiger_encuestadata (nombre, codigo) VALUES ('{$nombre}', '{$codigo}')";
 
-            $host="172.16.1.19";
-            $user="root";
-            $pw="CRMsanjorge.admin2021";
-            $db="crmsanjorge";
+            $host = "172.16.1.19";
+            $user = "root";
+            $pw = "CRMsanjorge.admin2021";
+            $db = "crmsanjorge";
         
             //Conexion a MYSQL
             $conexion = mysqli_connect($host,$user,$pw) or die("Unable to Connect to '$host'");
