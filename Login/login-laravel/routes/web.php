@@ -6,7 +6,7 @@ use App\Http\Controllers\LoginController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\LogoutController;
 use App\Http\Controllers\EncuestaController;
-
+use App\Http\Controllers\InventarioController;
 
 /*
 |--------------------------------------------------------------------------
@@ -42,7 +42,13 @@ Route::post('encuesta/insertar', [EncuestaController::class, 'insertarDatos'])->
 
 Route::post('/encuesta', [EncuestaController::class, 'buscar'])->name('encuesta.busqueda');
 
+Route::post('/convertir', [InventarioController::class, 'reportar']);
+
 
 Route::get('/encuestaP', function () {
     return view('/encuesta.encuestaPrueba');
+});
+
+Route::get('/sistema', function () {
+    return view('/inventario.sistema');
 });

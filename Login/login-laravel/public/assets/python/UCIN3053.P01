@@ -1,0 +1,1011 @@
++---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:        1   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 02 TRANSITO DESDE BD A VERSALLES                                                                                     |
+| Categoria      : 2  PRODUCTO TERMINADO QUIMICOS                                                                    * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+001507              ELASTINA  22 mL                                      7     UND           0       0       0       0       7
+002185              LECHE SANDE LIQ  120 mL                             20     UND           0       0       0       0      20
+002187              LECHE SANDE LIQ  500 mL                              7     UND           0       0       0       0       7
+002409              PLACENTA   22 mL                                     7     UND           0       0       0       0       7
+024445              BOLDO HOJAS 100 g                                    1     UND           0       0       0       0       1
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO QUIMICOS                         42.000 IN1           0       0       0       0      42TOTAL               PRODUCTO TERMINADO QUIMICOS                         42.000 IN1           0       0       0       0      42
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:        2   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 02 TRANSITO DESDE BD A VERSALLES                                                                                     |
+| Categoria      : 3  MERCANCIA NO FABRICADA POR LA EMPRESA                                                          * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+003326              CH GAMABENCENO PLUS 60 ML                            2     CJA           0       0       0       0       2
+003339              SULFAPLATA 1% 30 G                                   9     CJA           0       0       0       0       9
+014050              CREMOQUINONA CREMA 30 GR                             9     CJA           0       0       0       0       9
+019698              CREMOQUINONA DIA CREMA 30GR                          1     CJA           0       0       0       0       1
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               MERCANCIA NO FABRICADA POR LA EMPRESA               21.000 IN1           0       0       0       0      21TOTAL               MERCANCIA NO FABRICADA POR LA EMPRESA               21.000 IN1           0       0       0       0      21
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:        3   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 02 TRANSITO DESDE BD A VERSALLES                                                                                     |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+001045              AGUA ROSAS 500 mL PILI                              42     UND           0       0       0       0      42
+001198              BAL ROMERO QUINA PILI 250 mL                        24     UND           0       0       0       0      24
+001304              CH ANTICASPA PIRITIO/ALANTOI PILI 250 mL            23     UND           0       0       0       0      23
+001325              DTE ANTITRANSPIRANTE UNISEX PILI SPRAY              48     UND           0       0       0       0      48
+001326              DTE ANTITRANSPIRANTE UNISEX PILI TAPA PI            48     UND           0       0       0       0      48
+001467              CR ARNICA CON GLICERINA PILI  30 g                  10     UND           0       0       0       0      10
+002064              GEL ALGAS MARINAS FRIO PILI 275 g                    4     UND           0       0       0       0       4
+002196              ALMIPRO 30 g                                         1     UND           0       0       0       0       1
+002454              JABON FACIAL PILI 125 mL                            15     UND           0       0       0       0      15
+002835              ALMIPRO 500 g                                       40     UND           0       0       0       0      40
+003063              CR CALENDULA PILI  30 g                             20     UND           0       0       0       0      20
+003064              CR CALENDULA PILI 500 g                             48     UND           0       0       0       0      48
+012761              LOC REFRESCANTE PILI 240 mL                         75     UND           0       0       0       0      75
+013349              GEL ALGAS MARINAS MOLDULINE 275 g                    2     UND           0       0       0       0       2
+017225              ALMIPRO SYNDET BANO LIQ P/D 400 mL                  24     UND           0       0       0       0      24
+018373              AGUA ROSAS 250 mL PILI                              12     UND           0       0       0       0      12
+018374              ACE NARANJA  PILI 250 mL                            12     UND           0       0       0       0      12
+018375              ACE ALMENDRAS  PILI 250 mL                          12     UND           0       0       0       0      12
+019211              LINIRUB UNG 70 g                                    70     UND           0       0       0       0      70
+019319              AGUA HAMAMELIS PILI 250 mL(LOCION)                  36     UND           0       0       0       0      36
+019631              CR DESPIGMENTANTE PILI 25 g                         15     UND           0       0       0       0      15
+019801              CR HUMECTANTE PILI 250 g                            24     UND           0       0       0       0      24
+021404              GEL CALMANTE HYDROGEL 250 g PILI                    24     UND           0       0       0       0      24
+021467              JABON FACIAL PILI 250 mL                            48     UND           0       0       0       0      48
+021808              HYALURON SERUM PILI 30 mL                           50     UND           0       0       0       0      50
+023467              LINIRUB UNG 250 g                                    8     UND           0       0       0       0       8
+023733              LINIRUB UNG  CANNABIS 70 g                          15     UND           0       0       0       0      15
+024367              SERUM PILI VITAMIN C + B3 (NIACIN) 30 mL            20     UND           0       0       0       0      20
+024913              KIT PILI BARROS Y ESPINILLAS                         5     UND           0       0       0       0       5
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         775.000 IN1           0       0       0       0     775TOTAL               PRODUCTO TERMINADO PROPIOS                         775.000 IN1           0       0       0       0     775
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A VERSALLES                      838.000 IN1           0       0       0       0     838TOTAL               TRANSITO DESDE BD A VERSALLES                      838.000 IN1           0       0       0       0     838
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:        4   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 03 TRANSITO DESDE BD A CAMINO REAL                                                                                   |
+| Categoria      : 2  PRODUCTO TERMINADO QUIMICOS                                                                    * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+001011              ACI SALICILICO 500  g                                1     UND           0       0       0       0       1
+002191              METILPARABENO PURO 125 g                             1     UND           0       0       0       0       1
+002279              MIEL ROSAS 120 mL                                    2     UND           0       0       0       0       2
+002793              TIN TRES TIN  500 mL                                 2     UND           0       0       0       0       2
+002909              VITAMINA E OLEOSA 120 mL                             1     UND           0       0       0       0       1
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO QUIMICOS                          7.000 IN1           0       0       0       0       7TOTAL               PRODUCTO TERMINADO QUIMICOS                          7.000 IN1           0       0       0       0       7
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:        5   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 03 TRANSITO DESDE BD A CAMINO REAL                                                                                   |
+| Categoria      : 3  MERCANCIA NO FABRICADA POR LA EMPRESA                                                          * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+024146              GUANTE VINILO T/M 100 UNI BIOFIT                     1     CJA           0       0       0       0       1
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               MERCANCIA NO FABRICADA POR LA EMPRESA                1.000 IN1           0       0       0       0       1TOTAL               MERCANCIA NO FABRICADA POR LA EMPRESA                1.000 IN1           0       0       0       0       1
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A CAMINO REAL                      8.000 IN1           0       0       0       0       8TOTAL               TRANSITO DESDE BD A CAMINO REAL                      8.000 IN1           0       0       0       0       8
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:        6   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 04 TRANSITO DESDE BD A LOPEZ                                                                                         |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+000846              LOC CAPILAR PILI 250 mL                              5     UND           0       0       0       0       5
+000861              JABON PILI  AVENA 100 g                              5     UND           0       0       0       0       5
+000862              JABON PILI  AZUFRE 100 g                            17     UND           0       0       0       0      17
+000864              JABON PILI  CANELA 100 g                             5     UND           0       0       0       0       5
+001198              BAL ROMERO QUINA PILI 250 mL                        10     UND           0       0       0       0      10
+001304              CH ANTICASPA PIRITIO/ALANTOI PILI 250 mL            10     UND           0       0       0       0      10
+001326              DTE ANTITRANSPIRANTE UNISEX PILI TAPA PI            48     UND           0       0       0       0      48
+001467              CR ARNICA CON GLICERINA PILI  30 g                   5     UND           0       0       0       0       5
+002377              PASTA LASSAR 500 g AVT                              20     UND           0       0       0       0      20
+002835              ALMIPRO 500 g                                       45     UND           0       0       0       0      45
+002836              ALMIPRO 60 g                                       126     UND           0       0       0       0     126
+003063              CR CALENDULA PILI  30 g                             72     UND           0       0       0       0      72
+003064              CR CALENDULA PILI 500 g                             37     UND           0       0       0       0      37
+012760              ALMIPRO 125 g                                        5     UND           0       0       0       0       5
+012761              LOC REFRESCANTE PILI 240 mL                         75     UND           0       0       0       0      75
+016175              CR REGENERADORA PILI 250 g                           5     UND           0       0       0       0       5
+016577              DERMICOX SOLUCION 30 mL                             10     UND           0       0       0       0      10
+018374              ACE NARANJA  PILI 250 mL                            24     UND           0       0       0       0      24
+018375              ACE ALMENDRAS  PILI 250 mL                           5     UND           0       0       0       0       5
+019319              AGUA HAMAMELIS PILI 250 mL(LOCION)                   5     UND           0       0       0       0       5
+021404              GEL CALMANTE HYDROGEL 250 g PILI                     5     UND           0       0       0       0       5
+021467              JABON FACIAL PILI 250 mL                             5     UND           0       0       0       0       5
+021596              JABON PILI  CARBON ACTIVADO 100 g                    5     UND           0       0       0       0       5
+023467              LINIRUB UNG 250 g                                    6     UND           0       0       0       0       6
+024367              SERUM PILI VITAMIN C + B3 (NIACIN) 30 mL             6     UND           0       0       0       0       6
+024373              ALMIPRO CR EXTRAHUMECTANTE 450 g                     5     UND           0       0       0       0       5
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         566.000 IN1           0       0       0       0     566TOTAL               PRODUCTO TERMINADO PROPIOS                         566.000 IN1           0       0       0       0     566
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A LOPEZ                          566.000 IN1           0       0       0       0     566TOTAL               TRANSITO DESDE BD A LOPEZ                          566.000 IN1           0       0       0       0     566
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:        7   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 05 TRANSITO DESDE BD A INGENIO                                                                                       |
+| Categoria      : 2  PRODUCTO TERMINADO QUIMICOS                                                                    * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+002077              JENGIBRE POLVO 500 g                                 2     UND           0       0       0       0       2
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO QUIMICOS                          2.000 IN1           0       0       0       0       2TOTAL               PRODUCTO TERMINADO QUIMICOS                          2.000 IN1           0       0       0       0       2
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:        8   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 05 TRANSITO DESDE BD A INGENIO                                                                                       |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+000846              LOC CAPILAR PILI 250 mL                             10     UND           0       0       0       0      10
+000856              CH ROMERO Y QUINA PILI 500 mL                       10     UND           0       0       0       0      10
+000861              JABON PILI  AVENA 100 g                             10     UND           0       0       0       0      10
+000862              JABON PILI  AZUFRE 100 g                            48     UND           0       0       0       0      48
+000863              JABON PILI  SANDALO 100 g                           10     UND           0       0       0       0      10
+000866              JABON PILI  CALENDULA 100 g                        142     UND           0       0       0       0     142
+001036              AGUA HAMAMELIS PILI 500 mL(LOCION)                  11     UND           0       0       0       0      11
+001198              BAL ROMERO QUINA PILI 250 mL                         5     UND           0       0       0       0       5
+001304              CH ANTICASPA PIRITIO/ALANTOI PILI 250 mL            10     UND           0       0       0       0      10
+001325              DTE ANTITRANSPIRANTE UNISEX PILI SPRAY              48     UND           0       0       0       0      48
+001467              CR ARNICA CON GLICERINA PILI  30 g                   9     UND           0       0       0       0       9
+002196              ALMIPRO 30 g                                        24     UND           0       0       0       0      24
+002516              BAL ROMERO QUINA PILI 500 mL                         6     UND           0       0       0       0       6
+002836              ALMIPRO 60 g                                        10     UND           0       0       0       0      10
+003063              CR CALENDULA PILI  30 g                             15     UND           0       0       0       0      15
+003064              CR CALENDULA PILI 500 g                             14     UND           0       0       0       0      14
+012761              LOC REFRESCANTE PILI 240 mL                         50     UND           0       0       0       0      50
+016577              DERMICOX SOLUCION 30 mL                              5     UND           0       0       0       0       5
+018373              AGUA ROSAS 250 mL PILI                              24     UND           0       0       0       0      24
+018374              ACE NARANJA  PILI 250 mL                            24     UND           0       0       0       0      24
+019801              CR HUMECTANTE PILI 250 g                            12     UND           0       0       0       0      12
+020846              ALMIPRO JABON DERMOLIMPIADOR 100 g                  10     UND           0       0       0       0      10
+021404              GEL CALMANTE HYDROGEL 250 g PILI                    12     UND           0       0       0       0      12
+021596              JABON PILI  CARBON ACTIVADO 100 g                   40     UND           0       0       0       0      40
+022923              KIT PILI CONTROL DE SUDORACION 125/30 mL             7     UND           0       0       0       0       7
+023467              LINIRUB UNG 250 g                                    7     UND           0       0       0       0       7
+023733              LINIRUB UNG  CANNABIS 70 g                           8     UND           0       0       0       0       8
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         581.000 IN1           0       0       0       0     581TOTAL               PRODUCTO TERMINADO PROPIOS                         581.000 IN1           0       0       0       0     581
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A INGENIO                        583.000 IN1           0       0       0       0     583TOTAL               TRANSITO DESDE BD A INGENIO                        583.000 IN1           0       0       0       0     583
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:        9   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 07 TRANSITO DESDE BD A PORTADA                                                                                       |
+| Categoria      : 2  PRODUCTO TERMINADO QUIMICOS                                                                    * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+017559              ALHOLVAS SEMILLA 500 g                               1     UND           0       0       0       0       1
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO QUIMICOS                          1.000 IN1           0       0       0       0       1TOTAL               PRODUCTO TERMINADO QUIMICOS                          1.000 IN1           0       0       0       0       1
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       10   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 07 TRANSITO DESDE BD A PORTADA                                                                                       |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+000846              LOC CAPILAR PILI 250 mL                             12     UND           0       0       0       0      12
+000856              CH ROMERO Y QUINA PILI 500 mL                       15     UND           0       0       0       0      15
+000861              JABON PILI  AVENA 100 g                             20     UND           0       0       0       0      20
+000862              JABON PILI  AZUFRE 100 g                            30     UND           0       0       0       0      30
+001036              AGUA HAMAMELIS PILI 500 mL(LOCION)                  15     UND           0       0       0       0      15
+001045              AGUA ROSAS 500 mL PILI                              12     UND           0       0       0       0      12
+001304              CH ANTICASPA PIRITIO/ALANTOI PILI 250 mL            10     UND           0       0       0       0      10
+001325              DTE ANTITRANSPIRANTE UNISEX PILI SPRAY              48     UND           0       0       0       0      48
+001326              DTE ANTITRANSPIRANTE UNISEX PILI TAPA PI            48     UND           0       0       0       0      48
+001467              CR ARNICA CON GLICERINA PILI  30 g                   5     UND           0       0       0       0       5
+002196              ALMIPRO 30 g                                         5     UND           0       0       0       0       5
+002377              PASTA LASSAR 500 g AVT                               5     UND           0       0       0       0       5
+002454              JABON FACIAL PILI 125 mL                             5     UND           0       0       0       0       5
+002835              ALMIPRO 500 g                                        5     UND           0       0       0       0       5
+002836              ALMIPRO 60 g                                         5     UND           0       0       0       0       5
+003063              CR CALENDULA PILI  30 g                              6     UND           0       0       0       0       6
+003064              CR CALENDULA PILI 500 g                             10     UND           0       0       0       0      10
+011176              LOC AZUFRADA PILI 125 mL                             6     UND           0       0       0       0       6
+012761              LOC REFRESCANTE PILI 240 mL                         50     UND           0       0       0       0      50
+016577              DERMICOX SOLUCION 30 mL                             10     UND           0       0       0       0      10
+017225              ALMIPRO SYNDET BANO LIQ P/D 400 mL                   6     UND           0       0       0       0       6
+018373              AGUA ROSAS 250 mL PILI                              12     UND           0       0       0       0      12
+018375              ACE ALMENDRAS  PILI 250 mL                          12     UND           0       0       0       0      12
+021596              JABON PILI  CARBON ACTIVADO 100 g                   20     UND           0       0       0       0      20
+021785              CR REGENERADORA PILI  60 g                           5     UND           0       0       0       0       5
+023733              LINIRUB UNG  CANNABIS 70 g                           5     UND           0       0       0       0       5
+024367              SERUM PILI VITAMIN C + B3 (NIACIN) 30 mL             6     UND           0       0       0       0       6
+024461              CR ARNICA CON GLICERINA PILI 240 g                   5     UND           0       0       0       0       5
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         393.000 IN1           0       0       0       0     393TOTAL               PRODUCTO TERMINADO PROPIOS                         393.000 IN1           0       0       0       0     393
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A PORTADA                        394.000 IN1           0       0       0       0     394TOTAL               TRANSITO DESDE BD A PORTADA                        394.000 IN1           0       0       0       0     394
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       11   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 08 TRANSITO DESDE BD A SAN FERNANDO                                                                                  |
+| Categoria      : 2  PRODUCTO TERMINADO QUIMICOS                                                                    * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+001507              ELASTINA  22 mL                                      5     UND           0       0       0       0       5
+002185              LECHE SANDE LIQ  120 mL                              4     UND           0       0       0       0       4
+002187              LECHE SANDE LIQ  500 mL                             12     UND           0       0       0       0      12
+002409              PLACENTA   22 mL                                     2     UND           0       0       0       0       2
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO QUIMICOS                         23.000 IN1           0       0       0       0      23TOTAL               PRODUCTO TERMINADO QUIMICOS                         23.000 IN1           0       0       0       0      23
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       12   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 08 TRANSITO DESDE BD A SAN FERNANDO                                                                                  |
+| Categoria      : 3  MERCANCIA NO FABRICADA POR LA EMPRESA                                                          * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+014050              CREMOQUINONA CREMA 30 GR                             2     CJA           0       0       0       0       2
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               MERCANCIA NO FABRICADA POR LA EMPRESA                2.000 IN1           0       0       0       0       2TOTAL               MERCANCIA NO FABRICADA POR LA EMPRESA                2.000 IN1           0       0       0       0       2
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A SAN FERNANDO                    25.000 IN1           0       0       0       0      25TOTAL               TRANSITO DESDE BD A SAN FERNANDO                    25.000 IN1           0       0       0       0      25
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       13   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 09 TRANSITO DESDE BD A CALIMA                                                                                        |
+| Categoria      : 2  PRODUCTO TERMINADO QUIMICOS                                                                    * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+001508              ELASTINA 120 mL                                      1     UND           0       0       0       0       1
+023908              ACE ESENCIAL DE ROMERO 120 mL                        1     UND           0       0       0       0       1
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO QUIMICOS                          2.000 IN1           0       0       0       0       2TOTAL               PRODUCTO TERMINADO QUIMICOS                          2.000 IN1           0       0       0       0       2
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       14   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 09 TRANSITO DESDE BD A CALIMA                                                                                        |
+| Categoria      : 3  MERCANCIA NO FABRICADA POR LA EMPRESA                                                          * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+023933              CAPELL 60CAPS HEALTHY                                7     CJA           0       0       0       0       7
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               MERCANCIA NO FABRICADA POR LA EMPRESA                7.000 IN1           0       0       0       0       7TOTAL               MERCANCIA NO FABRICADA POR LA EMPRESA                7.000 IN1           0       0       0       0       7
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       15   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 09 TRANSITO DESDE BD A CALIMA                                                                                        |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+000856              CH ROMERO Y QUINA PILI 500 mL                       20     UND           0       0       0       0      20
+                              11722                                     20     UND           0                       0      20
+000861              JABON PILI  AVENA 100 g                             20     UND           0       0       0       0      20
+                              17522                                     20     UND           0                       0      20
+000862              JABON PILI  AZUFRE 100 g                            30     UND           0       0       0       0      30
+                              04822                                     30     UND           0                       0      30
+000863              JABON PILI  SANDALO 100 g                           50     UND           0       0       0       0      50
+                              10922                                     10     UND           0                       0      10
+000864              JABON PILI  CANELA 100 g                            10     UND           0       0       0       0      10
+                              05222                                     10     UND           0                       0      10
+000865              JABON PILI  GLICERINA 100 g                         10     UND           0       0       0       0      10
+                              03822                                     10     UND           0                       0      10
+001036              AGUA HAMAMELIS PILI 500 mL(LOCION)                  22     UND           0       0       0       0      22
+                              15222                                     22     UND           0                       0      22
+001045              AGUA ROSAS 500 mL PILI                              42     UND           0       0       0       0      42
+                              12522                                     42     UND           0                       0      42
+001198              BAL ROMERO QUINA PILI 250 mL                        12     UND           0       0       0       0      12
+                              12722                                     12     UND           0                       0      12
+001325              DTE ANTITRANSPIRANTE UNISEX PILI SPRAY              48     UND           0       0       0       0      48
+                              14822                                     48     UND           0                       0      48
+002196              ALMIPRO 30 g                                         5     UND           0       0       0       0       5
+                              14722-2      0000/00/00                    5     UND           0                       0       5
+002375              PASTA LASSAR 100 g AVT                               7     UND           0       0       0       0       7
+                              10322-4      0000/00/00                    7     UND           0                       0       7
+002377              PASTA LASSAR 500 g AVT                               5     UND           0       0       0       0       5
+                              05222        0000/00/00                    5     UND           0                       0       5
+002454              JABON FACIAL PILI 125 mL                             6     UND           0       0       0       0       6
+                              11322                                      6     UND           0                       0       6
+002835              ALMIPRO 500 g                                        5     UND           0       0       0       0       5
+                              13222-1      0000/00/00                    5     UND           0                       0       5
+002836              ALMIPRO 60 g                                         5     UND           0       0       0       0       5
+                              15922        0000/00/00                    5     UND           0                       0       5
+003063              CR CALENDULA PILI  30 g                             10     UND           0       0       0       0      10
+                              09922                                     10     UND           0                       0      10
+010661              LOC BENJUI SAN JORGE  120 mL                        10     UND           0       0       0       0      10
+                              15322        0000/00/00                   10     UND           0                       0      10
+010662              LOC BENJUI SAN JORGE  500 mL                         5     UND           0       0       0       0       5
+                              05022        0000/00/00                    5     UND           0                       0       5
+011176              LOC AZUFRADA PILI 125 mL                            10     UND           0       0       0       0      10
+                              15522        0000/00/00                   10     UND           0                       0      10
+012761              LOC REFRESCANTE PILI 240 mL                        100     UND           0       0       0       0     100
+                              13022        0000/00/00                   75     UND           0                       0      75
+                              17422        0000/00/00                   25     UND           0                       0      25
+016175              CR REGENERADORA PILI 250 g                           5     UND           0       0       0       0       5
+                              08322                                      5     UND           0                       0       5
+016577              DERMICOX SOLUCION 30 mL                             14     UND           0       0       0       0      14
+                              17222        0000/00/00                   14     UND           0                       0      14
+017224              ALMIPRO CR EMOLIENTE 400 g                           6     UND           0       0       0       0       6
+                              13622                                      6     UND           0                       0       6
+018373              AGUA ROSAS 250 mL PILI                              48     UND           0       0       0       0      48
+                              12522                                     24     UND           0                       0      24+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       16   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 09 TRANSITO DESDE BD A CALIMA                                                                                        |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+                              16522                                     24     UND           0                       0      24
+018374              ACE NARANJA  PILI 250 mL                            12     UND           0       0       0       0      12
+                              13222                                     12     UND           0                       0      12
+019211              LINIRUB UNG 70 g                                    10     UND           0       0       0       0      10
+                              05522                                     10     UND           0                       0      10
+019319              AGUA HAMAMELIS PILI 250 mL(LOCION)                  24     UND           0       0       0       0      24
+019631              CR DESPIGMENTANTE PILI 25 g                         10     UND           0       0       0       0      10
+                              09022                                     10     UND           0                       0      10
+020846              ALMIPRO JABON DERMOLIMPIADOR 100 g                  30     UND           0       0       0       0      30
+                              12222                                     30     UND           0                       0      30
+021399              GEL EXFOLIANTE  PILI 250 g                          12     UND           0       0       0       0      12
+                              14122                                     12     UND           0                       0      12
+021404              GEL CALMANTE HYDROGEL 250 g PILI                    12     UND           0       0       0       0      12
+                              14622                                     12     UND           0                       0      12
+021467              JABON FACIAL PILI 250 mL                            12     UND           0       0       0       0      12
+                              16722                                     12     UND           0                       0      12
+021596              JABON PILI  CARBON ACTIVADO 100 g                   30     UND           0       0       0       0      30
+                              01122                                     30     UND           0                       0      30
+021703              ACI GLICOLICO PILI 30 mL                             4     UND           0       0       0       0       4
+                              11122                                      4     UND           0                       0       4
+021785              CR REGENERADORA PILI  60 g                          54     UND           0       0       0       0      54
+021808              HYALURON SERUM PILI 30 mL                            6     UND           0       0       0       0       6
+                              12022                                      6     UND           0                       0       6
+022923              KIT PILI CONTROL DE SUDORACION 125/30 mL             5     UND           0       0       0       0       5
+                              19621                                      5     UND           0                       0       5
+023733              LINIRUB UNG  CANNABIS 70 g                          10     UND           0       0       0       0      10
+                              14522                                     10     UND           0                       0      10
+024367              SERUM PILI VITAMIN C + B3 (NIACIN) 30 mL            24     UND           0       0       0       0      24
+                              25621                                     24     UND           0                       0      24
+024373              ALMIPRO CR EXTRAHUMECTANTE 450 g                    10     UND           0       0       0       0      10
+                              07622                                     10     UND           0                       0      10
+024461              CR ARNICA CON GLICERINA PILI 240 g                  12     UND           0       0       0       0      12
+                              13022                                     12     UND           0                       0      12
+024913              KIT PILI BARROS Y ESPINILLAS                         5     UND           0       0       0       0       5
+                              12222                                      5     UND           0                       0       5
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         787.000 IN1           0       0       0       0     787TOTAL               PRODUCTO TERMINADO PROPIOS                         787.000 IN1           0       0       0       0     787
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A CALIMA                         796.000 IN1           0       0       0       0     796TOTAL               TRANSITO DESDE BD A CALIMA                         796.000 IN1           0       0       0       0     796
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       17   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 10 TRANSITO DESDE BD A PLAZA CAICEDO                                                                                 |
+| Categoria      : 2  PRODUCTO TERMINADO QUIMICOS                                                                    * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+016023              GLUCOSA LIQ   GALON                                  1     UND           0       0       0       0       1
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO QUIMICOS                          1.000 IN1           0       0       0       0       1TOTAL               PRODUCTO TERMINADO QUIMICOS                          1.000 IN1           0       0       0       0       1
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       18   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 10 TRANSITO DESDE BD A PLAZA CAICEDO                                                                                 |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+000846              LOC CAPILAR PILI 250 mL                             10     UND           0       0       0       0      10
+012761              LOC REFRESCANTE PILI 240 mL                        280     UND           0       0       0       0     280
+021406              LIMPIADOR LIQUIDO PILI SYNDET 250 mL                10     UND           0       0       0       0      10
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         300.000 IN1           0       0       0       0     300TOTAL               PRODUCTO TERMINADO PROPIOS                         300.000 IN1           0       0       0       0     300
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A PLAZA CAICEDO                  301.000 IN1           0       0       0       0     301TOTAL               TRANSITO DESDE BD A PLAZA CAICEDO                  301.000 IN1           0       0       0       0     301
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       19   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 11 TRANSITO DESDE BD A VALLE DEL LILI                                                                                |
+| Categoria      : 2  PRODUCTO TERMINADO QUIMICOS                                                                    * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+001804              EXTO LAVANDA NUEVA 120 mL                            6     UND           0       0       0       0       6
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO QUIMICOS                          6.000 IN1           0       0       0       0       6TOTAL               PRODUCTO TERMINADO QUIMICOS                          6.000 IN1           0       0       0       0       6
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       20   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 11 TRANSITO DESDE BD A VALLE DEL LILI                                                                                |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+000846              LOC CAPILAR PILI 250 mL                              9     UND           0       0       0       0       9
+000857              CH ROMERO Y QUINA PILI 250 mL                       10     UND           0       0       0       0      10
+000861              JABON PILI  AVENA 100 g                             16     UND           0       0       0       0      16
+000862              JABON PILI  AZUFRE 100 g                            10     UND           0       0       0       0      10
+000864              JABON PILI  CANELA 100 g                            15     UND           0       0       0       0      15
+000866              JABON PILI  CALENDULA 100 g                         15     UND           0       0       0       0      15
+001045              AGUA ROSAS 500 mL PILI                              12     UND           0       0       0       0      12
+001304              CH ANTICASPA PIRITIO/ALANTOI PILI 250 mL            10     UND           0       0       0       0      10
+002454              JABON FACIAL PILI 125 mL                            12     UND           0       0       0       0      12
+002835              ALMIPRO 500 g                                        6     UND           0       0       0       0       6
+002836              ALMIPRO 60 g                                         5     UND           0       0       0       0       5
+003064              CR CALENDULA PILI 500 g                             10     UND           0       0       0       0      10
+011176              LOC AZUFRADA PILI 125 mL                            10     UND           0       0       0       0      10
+012760              ALMIPRO 125 g                                        5     UND           0       0       0       0       5
+012761              LOC REFRESCANTE PILI 240 mL                         50     UND           0       0       0       0      50
+016175              CR REGENERADORA PILI 250 g                           5     UND           0       0       0       0       5
+016577              DERMICOX SOLUCION 30 mL                             18     UND           0       0       0       0      18
+017224              ALMIPRO CR EMOLIENTE 400 g                           6     UND           0       0       0       0       6
+017225              ALMIPRO SYNDET BANO LIQ P/D 400 mL                  10     UND           0       0       0       0      10
+018373              AGUA ROSAS 250 mL PILI                              10     UND           0       0       0       0      10
+018374              ACE NARANJA  PILI 250 mL                            10     UND           0       0       0       0      10
+019319              AGUA HAMAMELIS PILI 250 mL(LOCION)                   4     UND           0       0       0       0       4
+019631              CR DESPIGMENTANTE PILI 25 g                          5     UND           0       0       0       0       5
+019844              ALMIPRO CR EMOLIENTE 200 g                           5     UND           0       0       0       0       5
+021399              GEL EXFOLIANTE  PILI 250 g                          12     UND           0       0       0       0      12
+021404              GEL CALMANTE HYDROGEL 250 g PILI                    10     UND           0       0       0       0      10
+021406              LIMPIADOR LIQUIDO PILI SYNDET 250 mL                15     UND           0       0       0       0      15
+021596              JABON PILI  CARBON ACTIVADO 100 g                   15     UND           0       0       0       0      15
+021703              ACI GLICOLICO PILI 30 mL                            10     UND           0       0       0       0      10
+021785              CR REGENERADORA PILI  60 g                           5     UND           0       0       0       0       5
+023733              LINIRUB UNG  CANNABIS 70 g                          10     UND           0       0       0       0      10
+024367              SERUM PILI VITAMIN C + B3 (NIACIN) 30 mL             6     UND           0       0       0       0       6
+024373              ALMIPRO CR EXTRAHUMECTANTE 450 g                    10     UND           0       0       0       0      10
+024913              KIT PILI BARROS Y ESPINILLAS                         5     UND           0       0       0       0       5
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         366.000 IN1           0       0       0       0     366TOTAL               PRODUCTO TERMINADO PROPIOS                         366.000 IN1           0       0       0       0     366
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A VALLE DEL LILI                 372.000 IN1           0       0       0       0     372TOTAL               TRANSITO DESDE BD A VALLE DEL LILI                 372.000 IN1           0       0       0       0     372
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       21   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 14 TRANSITO DESDE BD A PDV CENTRO                                                                                    |
+| Categoria      : 2  PRODUCTO TERMINADO QUIMICOS                                                                    * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+001082              ALCOHOL IMPOT  GALONETA                              1     UND           0       0       0       0       1
+001258              CAP GELATINA VACIA 0 500 UNI BLA/AZU                20     UND           0       0       0       0      20
+002124              HIPOSULFITO SODIO 500 g                              1     UND           0       0       0       0       1
+013817              CARAMELO  GALONETA                                   4     UND           0       0       0       0       4
+018136              VITAMINA E OLEOSA  4 LITROS                          2     UND           0       0       0       0       2
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO QUIMICOS                         28.000 IN1           0       0       0       0      28TOTAL               PRODUCTO TERMINADO QUIMICOS                         28.000 IN1           0       0       0       0      28
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       22   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 14 TRANSITO DESDE BD A PDV CENTRO                                                                                    |
+| Categoria      : 4  MATERIAL DE EMPAQUE                                                                            * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+009983              ENV PEAD NATURAL 22 mL GOTERO                        2     UND           0       0       0       0       2
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               MATERIAL DE EMPAQUE                                  2.000 IN1           0       0       0       0       2TOTAL               MATERIAL DE EMPAQUE                                  2.000 IN1           0       0       0       0       2
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A PDV CENTRO                      30.000 IN1           0       0       0       0      30TOTAL               TRANSITO DESDE BD A PDV CENTRO                      30.000 IN1           0       0       0       0      30
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       23   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 15 TRANSITO DESDE BD A LA FLORA                                                                                      |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+000846              LOC CAPILAR PILI 250 mL                             24     UND           0       0       0       0      24
+000857              CH ROMERO Y QUINA PILI 250 mL                       24     UND           0       0       0       0      24
+000861              JABON PILI  AVENA 100 g                             15     UND           0       0       0       0      15
+000862              JABON PILI  AZUFRE 100 g                            15     UND           0       0       0       0      15
+001045              AGUA ROSAS 500 mL PILI                              42     UND           0       0       0       0      42
+001198              BAL ROMERO QUINA PILI 250 mL                        12     UND           0       0       0       0      12
+001325              DTE ANTITRANSPIRANTE UNISEX PILI SPRAY              48     UND           0       0       0       0      48
+002835              ALMIPRO 500 g                                       40     UND           0       0       0       0      40
+002836              ALMIPRO 60 g                                        10     UND           0       0       0       0      10
+003063              CR CALENDULA PILI  30 g                             15     UND           0       0       0       0      15
+011175              ALCOHOL GLICERINADO PILI 120  mL                    10     UND           0       0       0       0      10
+012760              ALMIPRO 125 g                                       10     UND           0       0       0       0      10
+012761              LOC REFRESCANTE PILI 240 mL                         50     UND           0       0       0       0      50
+016577              DERMICOX SOLUCION 30 mL                             15     UND           0       0       0       0      15
+018373              AGUA ROSAS 250 mL PILI                              24     UND           0       0       0       0      24
+018375              ACE ALMENDRAS  PILI 250 mL                          12     UND           0       0       0       0      12
+021404              GEL CALMANTE HYDROGEL 250 g PILI                    24     UND           0       0       0       0      24
+021785              CR REGENERADORA PILI  60 g                          10     UND           0       0       0       0      10
+024373              ALMIPRO CR EXTRAHUMECTANTE 450 g                     8     UND           0       0       0       0       8
+024913              KIT PILI BARROS Y ESPINILLAS                         5     UND           0       0       0       0       5
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         413.000 IN1           0       0       0       0     413TOTAL               PRODUCTO TERMINADO PROPIOS                         413.000 IN1           0       0       0       0     413
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A LA FLORA                       413.000 IN1           0       0       0       0     413TOTAL               TRANSITO DESDE BD A LA FLORA                       413.000 IN1           0       0       0       0     413
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       24   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 16 TRANSITO DESDE BD A UNICENTRO                                                                                     |
+| Categoria      : 2  PRODUCTO TERMINADO QUIMICOS                                                                    * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+002509              CAP GELATINA VACIA 00 500 UNI(BLANCA)                1     UND           0       0       0       0       1
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO QUIMICOS                          1.000 IN1           0       0       0       0       1TOTAL               PRODUCTO TERMINADO QUIMICOS                          1.000 IN1           0       0       0       0       1
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       25   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 16 TRANSITO DESDE BD A UNICENTRO                                                                                     |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+000856              CH ROMERO Y QUINA PILI 500 mL                       10     UND           0       0       0       0      10
+000861              JABON PILI  AVENA 100 g                             20     UND           0       0       0       0      20
+000862              JABON PILI  AZUFRE 100 g                            20     UND           0       0       0       0      20
+000864              JABON PILI  CANELA 100 g                            10     UND           0       0       0       0      10
+000865              JABON PILI  GLICERINA 100 g                         20     UND           0       0       0       0      20
+000866              JABON PILI  CALENDULA 100 g                         20     UND           0       0       0       0      20
+001036              AGUA HAMAMELIS PILI 500 mL(LOCION)                  10     UND           0       0       0       0      10
+001045              AGUA ROSAS 500 mL PILI                              12     UND           0       0       0       0      12
+001198              BAL ROMERO QUINA PILI 250 mL                        12     UND           0       0       0       0      12
+001304              CH ANTICASPA PIRITIO/ALANTOI PILI 250 mL            10     UND           0       0       0       0      10
+001325              DTE ANTITRANSPIRANTE UNISEX PILI SPRAY              48     UND           0       0       0       0      48
+001326              DTE ANTITRANSPIRANTE UNISEX PILI TAPA PI            48     UND           0       0       0       0      48
+002377              PASTA LASSAR 500 g AVT                               4     UND           0       0       0       0       4
+002390              PASTA LASSAR  60 g AVT                               5     UND           0       0       0       0       5
+002516              BAL ROMERO QUINA PILI 500 mL                        10     UND           0       0       0       0      10
+010662              LOC BENJUI SAN JORGE  500 mL                         3     UND           0       0       0       0       3
+011175              ALCOHOL GLICERINADO PILI 120  mL                     5     UND           0       0       0       0       5
+012761              LOC REFRESCANTE PILI 240 mL                         50     UND           0       0       0       0      50
+016175              CR REGENERADORA PILI 250 g                           6     UND           0       0       0       0       6
+016577              DERMICOX SOLUCION 30 mL                             25     UND           0       0       0       0      25
+017225              ALMIPRO SYNDET BANO LIQ P/D 400 mL                  24     UND           0       0       0       0      24
+018373              AGUA ROSAS 250 mL PILI                              12     UND           0       0       0       0      12
+019211              LINIRUB UNG 70 g                                     7     UND           0       0       0       0       7
+019631              CR DESPIGMENTANTE PILI 25 g                          6     UND           0       0       0       0       6
+020846              ALMIPRO JABON DERMOLIMPIADOR 100 g                  20     UND           0       0       0       0      20
+021404              GEL CALMANTE HYDROGEL 250 g PILI                    12     UND           0       0       0       0      12
+021406              LIMPIADOR LIQUIDO PILI SYNDET 250 mL                12     UND           0       0       0       0      12
+021467              JABON FACIAL PILI 250 mL                            12     UND           0       0       0       0      12
+021596              JABON PILI  CARBON ACTIVADO 100 g                   20     UND           0       0       0       0      20
+021808              HYALURON SERUM PILI 30 mL                            5     UND           0       0       0       0       5
+022923              KIT PILI CONTROL DE SUDORACION 125/30 mL             4     UND           0       0       0       0       4
+024367              SERUM PILI VITAMIN C + B3 (NIACIN) 30 mL            15     UND           0       0       0       0      15
+024373              ALMIPRO CR EXTRAHUMECTANTE 450 g                     5     UND           0       0       0       0       5
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         502.000 IN1           0       0       0       0     502TOTAL               PRODUCTO TERMINADO PROPIOS                         502.000 IN1           0       0       0       0     502
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A UNICENTRO                      503.000 IN1           0       0       0       0     503TOTAL               TRANSITO DESDE BD A UNICENTRO                      503.000 IN1           0       0       0       0     503
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       26   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 17 TRANSITO DESDE BD A ALFAGUARA                                                                                     |
+| Categoria      : 2  PRODUCTO TERMINADO QUIMICOS                                                                    * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+001507              ELASTINA  22 mL                                      3     UND           0       0       0       0       3
+002185              LECHE SANDE LIQ  120 mL                              7     UND           0       0       0       0       7
+002187              LECHE SANDE LIQ  500 mL                              6     UND           0       0       0       0       6
+002254              SOL MERCURIO CROMO 2%  22 mL                         1     UND           0       0       0       0       1
+002255              SOL MERCURIO CROMO 2% 120 mL                         1     UND           0       0       0       0       1
+002409              PLACENTA   22 mL                                     3     UND           0       0       0       0       3
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO QUIMICOS                         21.000 IN1           0       0       0       0      21TOTAL               PRODUCTO TERMINADO QUIMICOS                         21.000 IN1           0       0       0       0      21
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       27   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 17 TRANSITO DESDE BD A ALFAGUARA                                                                                     |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+000846              LOC CAPILAR PILI 250 mL                             24     UND           0       0       0       0      24
+000856              CH ROMERO Y QUINA PILI 500 mL                        7     UND           0       0       0       0       7
+001045              AGUA ROSAS 500 mL PILI                               8     UND           0       0       0       0       8
+001198              BAL ROMERO QUINA PILI 250 mL                        24     UND           0       0       0       0      24
+001325              DTE ANTITRANSPIRANTE UNISEX PILI SPRAY              48     UND           0       0       0       0      48
+001326              DTE ANTITRANSPIRANTE UNISEX PILI TAPA PI            48     UND           0       0       0       0      48
+002196              ALMIPRO 30 g                                        20     UND           0       0       0       0      20
+003064              CR CALENDULA PILI 500 g                             40     UND           0       0       0       0      40
+012761              LOC REFRESCANTE PILI 240 mL                         25     UND           0       0       0       0      25
+016577              DERMICOX SOLUCION 30 mL                             20     UND           0       0       0       0      20
+017225              ALMIPRO SYNDET BANO LIQ P/D 400 mL                  24     UND           0       0       0       0      24
+018373              AGUA ROSAS 250 mL PILI                              24     UND           0       0       0       0      24
+018374              ACE NARANJA  PILI 250 mL                            12     UND           0       0       0       0      12
+018375              ACE ALMENDRAS  PILI 250 mL                          12     UND           0       0       0       0      12
+019211              LINIRUB UNG 70 g                                    10     UND           0       0       0       0      10
+019319              AGUA HAMAMELIS PILI 250 mL(LOCION)                  24     UND           0       0       0       0      24
+019631              CR DESPIGMENTANTE PILI 25 g                         15     UND           0       0       0       0      15
+019801              CR HUMECTANTE PILI 250 g                            24     UND           0       0       0       0      24
+020846              ALMIPRO JABON DERMOLIMPIADOR 100 g                  15     UND           0       0       0       0      15
+021399              GEL EXFOLIANTE  PILI 250 g                          24     UND           0       0       0       0      24
+021404              GEL CALMANTE HYDROGEL 250 g PILI                    24     UND           0       0       0       0      24
+021596              JABON PILI  CARBON ACTIVADO 100 g                   15     UND           0       0       0       0      15
+022923              KIT PILI CONTROL DE SUDORACION 125/30 mL             4     UND           0       0       0       0       4
+023467              LINIRUB UNG 250 g                                    5     UND           0       0       0       0       5
+023733              LINIRUB UNG  CANNABIS 70 g                          10     UND           0       0       0       0      10
+024367              SERUM PILI VITAMIN C + B3 (NIACIN) 30 mL            22     UND           0       0       0       0      22
+024373              ALMIPRO CR EXTRAHUMECTANTE 450 g                    10     UND           0       0       0       0      10
+024913              KIT PILI BARROS Y ESPINILLAS                         5     UND           0       0       0       0       5
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         543.000 IN1           0       0       0       0     543TOTAL               PRODUCTO TERMINADO PROPIOS                         543.000 IN1           0       0       0       0     543
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A ALFAGUARA                      564.000 IN1           0       0       0       0     564TOTAL               TRANSITO DESDE BD A ALFAGUARA                      564.000 IN1           0       0       0       0     564
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       28   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 18 TRANSITO DESDE BD A ELITE                                                                                         |
+| Categoria      : 2  PRODUCTO TERMINADO QUIMICOS                                                                    * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+001507              ELASTINA  22 mL                                      1     UND           0       0       0       0       1
+002185              LECHE SANDE LIQ  120 mL                              5     UND           0       0       0       0       5
+002187              LECHE SANDE LIQ  500 mL                              8     UND           0       0       0       0       8
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO QUIMICOS                         14.000 IN1           0       0       0       0      14TOTAL               PRODUCTO TERMINADO QUIMICOS                         14.000 IN1           0       0       0       0      14
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A ELITE                           14.000 IN1           0       0       0       0      14TOTAL               TRANSITO DESDE BD A ELITE                           14.000 IN1           0       0       0       0      14
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       29   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 19 TRANSITO DESDE BD A VILLACOLOMBIA                                                                                 |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+002836              ALMIPRO 60 g                                       126     UND           0       0       0       0     126
+012761              LOC REFRESCANTE PILI 240 mL                         20     UND           0       0       0       0      20
+018374              ACE NARANJA  PILI 250 mL                            24     UND           0       0       0       0      24
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         170.000 IN1           0       0       0       0     170TOTAL               PRODUCTO TERMINADO PROPIOS                         170.000 IN1           0       0       0       0     170
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A VILLACOLOMBIA                  170.000 IN1           0       0       0       0     170TOTAL               TRANSITO DESDE BD A VILLACOLOMBIA                  170.000 IN1           0       0       0       0     170
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       30   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 23 TRANSITO DESDE BD A JARDINPLAZA                                                                                   |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+000856              CH ROMERO Y QUINA PILI 500 mL                        5     UND           0       0       0       0       5
+000861              JABON PILI  AVENA 100 g                             16     UND           0       0       0       0      16
+000862              JABON PILI  AZUFRE 100 g                            10     UND           0       0       0       0      10
+000864              JABON PILI  CANELA 100 g                            10     UND           0       0       0       0      10
+000866              JABON PILI  CALENDULA 100 g                         15     UND           0       0       0       0      15
+001036              AGUA HAMAMELIS PILI 500 mL(LOCION)                   6     UND           0       0       0       0       6
+001198              BAL ROMERO QUINA PILI 250 mL                        10     UND           0       0       0       0      10
+001304              CH ANTICASPA PIRITIO/ALANTOI PILI 250 mL            10     UND           0       0       0       0      10
+001325              DTE ANTITRANSPIRANTE UNISEX PILI SPRAY              48     UND           0       0       0       0      48
+001326              DTE ANTITRANSPIRANTE UNISEX PILI TAPA PI            48     UND           0       0       0       0      48
+002196              ALMIPRO 30 g                                         5     UND           0       0       0       0       5
+002516              BAL ROMERO QUINA PILI 500 mL                        10     UND           0       0       0       0      10
+003063              CR CALENDULA PILI  30 g                             10     UND           0       0       0       0      10
+003064              CR CALENDULA PILI 500 g                             18     UND           0       0       0       0      18
+011176              LOC AZUFRADA PILI 125 mL                             5     UND           0       0       0       0       5
+012761              LOC REFRESCANTE PILI 240 mL                         50     UND           0       0       0       0      50
+016175              CR REGENERADORA PILI 250 g                           5     UND           0       0       0       0       5
+016577              DERMICOX SOLUCION 30 mL                             10     UND           0       0       0       0      10
+017224              ALMIPRO CR EMOLIENTE 400 g                           5     UND           0       0       0       0       5
+017225              ALMIPRO SYNDET BANO LIQ P/D 400 mL                  24     UND           0       0       0       0      24
+018373              AGUA ROSAS 250 mL PILI                               9     UND           0       0       0       0       9
+019211              LINIRUB UNG 70 g                                    15     UND           0       0       0       0      15
+019631              CR DESPIGMENTANTE PILI 25 g                         10     UND           0       0       0       0      10
+021399              GEL EXFOLIANTE  PILI 250 g                           9     UND           0       0       0       0       9
+021404              GEL CALMANTE HYDROGEL 250 g PILI                     5     UND           0       0       0       0       5
+021406              LIMPIADOR LIQUIDO PILI SYNDET 250 mL                10     UND           0       0       0       0      10
+021467              JABON FACIAL PILI 250 mL                            15     UND           0       0       0       0      15
+021596              JABON PILI  CARBON ACTIVADO 100 g                   10     UND           0       0       0       0      10
+021808              HYALURON SERUM PILI 30 mL                            5     UND           0       0       0       0       5
+023733              LINIRUB UNG  CANNABIS 70 g                          10     UND           0       0       0       0      10
+024367              SERUM PILI VITAMIN C + B3 (NIACIN) 30 mL            15     UND           0       0       0       0      15
+024461              CR ARNICA CON GLICERINA PILI 240 g                  10     UND           0       0       0       0      10
+024913              KIT PILI BARROS Y ESPINILLAS                         5     UND           0       0       0       0       5
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         448.000 IN1           0       0       0       0     448TOTAL               PRODUCTO TERMINADO PROPIOS                         448.000 IN1           0       0       0       0     448
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A JARDINPLAZA                    448.000 IN1           0       0       0       0     448TOTAL               TRANSITO DESDE BD A JARDINPLAZA                    448.000 IN1           0       0       0       0     448
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       31   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 24 TRANSITO DESDE BD A PDV DELICIAS                                                                                  |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+000846              LOC CAPILAR PILI 250 mL                              5     UND           0       0       0       0       5
+000862              JABON PILI  AZUFRE 100 g                            10     UND           0       0       0       0      10
+000865              JABON PILI  GLICERINA 100 g                          5     UND           0       0       0       0       5
+000866              JABON PILI  CALENDULA 100 g                          5     UND           0       0       0       0       5
+001036              AGUA HAMAMELIS PILI 500 mL(LOCION)                   5     UND           0       0       0       0       5
+001045              AGUA ROSAS 500 mL PILI                               6     UND           0       0       0       0       6
+001304              CH ANTICASPA PIRITIO/ALANTOI PILI 250 mL             5     UND           0       0       0       0       5
+001326              DTE ANTITRANSPIRANTE UNISEX PILI TAPA PI            12     UND           0       0       0       0      12
+001467              CR ARNICA CON GLICERINA PILI  30 g                  10     UND           0       0       0       0      10
+002835              ALMIPRO 500 g                                        5     UND           0       0       0       0       5
+011176              LOC AZUFRADA PILI 125 mL                             5     UND           0       0       0       0       5
+012761              LOC REFRESCANTE PILI 240 mL                         50     UND           0       0       0       0      50
+016175              CR REGENERADORA PILI 250 g                           5     UND           0       0       0       0       5
+016577              DERMICOX SOLUCION 30 mL                              5     UND           0       0       0       0       5
+017225              ALMIPRO SYNDET BANO LIQ P/D 400 mL                   5     UND           0       0       0       0       5
+018375              ACE ALMENDRAS  PILI 250 mL                           5     UND           0       0       0       0       5
+019319              AGUA HAMAMELIS PILI 250 mL(LOCION)                  10     UND           0       0       0       0      10
+021406              LIMPIADOR LIQUIDO PILI SYNDET 250 mL                 5     UND           0       0       0       0       5
+021596              JABON PILI  CARBON ACTIVADO 100 g                   10     UND           0       0       0       0      10
+023733              LINIRUB UNG  CANNABIS 70 g                           5     UND           0       0       0       0       5
+024367              SERUM PILI VITAMIN C + B3 (NIACIN) 30 mL             5     UND           0       0       0       0       5
+024913              KIT PILI BARROS Y ESPINILLAS                         5     UND           0       0       0       0       5
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         183.000 IN1           0       0       0       0     183TOTAL               PRODUCTO TERMINADO PROPIOS                         183.000 IN1           0       0       0       0     183
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A PDV DELICIAS                   183.000 IN1           0       0       0       0     183TOTAL               TRANSITO DESDE BD A PDV DELICIAS                   183.000 IN1           0       0       0       0     183
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       32   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 25 TRANSITO DESDE BD A PDV PILI                                                                                      |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+017224              ALMIPRO CR EMOLIENTE 400 g                          12     UND           0       0       0       0      12
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                          12.000 IN1           0       0       0       0      12TOTAL               PRODUCTO TERMINADO PROPIOS                          12.000 IN1           0       0       0       0      12
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A PDV PILI                        12.000 IN1           0       0       0       0      12TOTAL               TRANSITO DESDE BD A PDV PILI                        12.000 IN1           0       0       0       0      12
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       33   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 26 TRANSITO DESDE BD PDV CASONA                                                                                      |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+000856              CH ROMERO Y QUINA PILI 500 mL                       20     UND           0       0       0       0      20
+000861              JABON PILI  AVENA 100 g                             20     UND           0       0       0       0      20
+000862              JABON PILI  AZUFRE 100 g                            30     UND           0       0       0       0      30
+000865              JABON PILI  GLICERINA 100 g                         10     UND           0       0       0       0      10
+001031              PASTA AL AGUA ALMIPRO 180 g                          6     UND           0       0       0       0       6
+001045              AGUA ROSAS 500 mL PILI                              22     UND           0       0       0       0      22
+001198              BAL ROMERO QUINA PILI 250 mL                        12     UND           0       0       0       0      12
+001325              DTE ANTITRANSPIRANTE UNISEX PILI SPRAY              48     UND           0       0       0       0      48
+001467              CR ARNICA CON GLICERINA PILI  30 g                   9     UND           0       0       0       0       9
+002196              ALMIPRO 30 g                                        20     UND           0       0       0       0      20
+002835              ALMIPRO 500 g                                        4     UND           0       0       0       0       4
+002836              ALMIPRO 60 g                                        12     UND           0       0       0       0      12
+003063              CR CALENDULA PILI  30 g                              7     UND           0       0       0       0       7
+003064              CR CALENDULA PILI 500 g                              5     UND           0       0       0       0       5
+012761              LOC REFRESCANTE PILI 240 mL                         50     UND           0       0       0       0      50
+016577              DERMICOX SOLUCION 30 mL                              7     UND           0       0       0       0       7
+019211              LINIRUB UNG 70 g                                     8     UND           0       0       0       0       8
+019522              LOC MASAJE PARA DEPORTISTA LINIRUB 240mL             3     UND           0       0       0       0       3
+020846              ALMIPRO JABON DERMOLIMPIADOR 100 g                  30     UND           0       0       0       0      30
+021596              JABON PILI  CARBON ACTIVADO 100 g                   20     UND           0       0       0       0      20
+024373              ALMIPRO CR EXTRAHUMECTANTE 450 g                     3     UND           0       0       0       0       3
+024913              KIT PILI BARROS Y ESPINILLAS                         6     UND           0       0       0       0       6
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         352.000 IN1           0       0       0       0     352TOTAL               PRODUCTO TERMINADO PROPIOS                         352.000 IN1           0       0       0       0     352
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD PDV CASONA                       352.000 IN1           0       0       0       0     352TOTAL               TRANSITO DESDE BD PDV CASONA                       352.000 IN1           0       0       0       0     352
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       34   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 27 TRANSITO DESDE BD A CIUDADJARDIN                                                                                  |
+| Categoria      : 2  PRODUCTO TERMINADO QUIMICOS                                                                    * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+000938              ACE PATA GALON                                       1     UND           0       0       0       0       1
+001804              EXTO LAVANDA NUEVA 120 mL                            1     UND           0       0       0       0       1
+001891              EXTO ROSA EXTRA  120 mL                              1     UND           0       0       0       0       1
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO QUIMICOS                          3.000 IN1           0       0       0       0       3TOTAL               PRODUCTO TERMINADO QUIMICOS                          3.000 IN1           0       0       0       0       3
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       35   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 27 TRANSITO DESDE BD A CIUDADJARDIN                                                                                  |
+| Categoria      : 6  PRODUCTO TERMINADO PROPIOS                                                                     * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+000861              JABON PILI  AVENA 100 g                             10     UND           0       0       0       0      10
+000862              JABON PILI  AZUFRE 100 g                            20     UND           0       0       0       0      20
+000865              JABON PILI  GLICERINA 100 g                         10     UND           0       0       0       0      10
+001031              PASTA AL AGUA ALMIPRO 180 g                          4     UND           0       0       0       0       4
+001325              DTE ANTITRANSPIRANTE UNISEX PILI SPRAY              48     UND           0       0       0       0      48
+001326              DTE ANTITRANSPIRANTE UNISEX PILI TAPA PI            48     UND           0       0       0       0      48
+002196              ALMIPRO 30 g                                        12     UND           0       0       0       0      12
+002377              PASTA LASSAR 500 g AVT                               5     UND           0       0       0       0       5
+003063              CR CALENDULA PILI  30 g                              8     UND           0       0       0       0       8
+003064              CR CALENDULA PILI 500 g                              4     UND           0       0       0       0       4
+011176              LOC AZUFRADA PILI 125 mL                             6     UND           0       0       0       0       6
+012760              ALMIPRO 125 g                                       10     UND           0       0       0       0      10
+012761              LOC REFRESCANTE PILI 240 mL                         12     UND           0       0       0       0      12
+016577              DERMICOX SOLUCION 30 mL                             10     UND           0       0       0       0      10
+017225              ALMIPRO SYNDET BANO LIQ P/D 400 mL                  10     UND           0       0       0       0      10
+018374              ACE NARANJA  PILI 250 mL                            12     UND           0       0       0       0      12
+020846              ALMIPRO JABON DERMOLIMPIADOR 100 g                  15     UND           0       0       0       0      15
+021596              JABON PILI  CARBON ACTIVADO 100 g                   20     UND           0       0       0       0      20
+021808              HYALURON SERUM PILI 30 mL                            4     UND           0       0       0       0       4
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               PRODUCTO TERMINADO PROPIOS                         268.000 IN1           0       0       0       0     268TOTAL               PRODUCTO TERMINADO PROPIOS                         268.000 IN1           0       0       0       0     268
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A CIUDADJARDIN                   271.000 IN1           0       0       0       0     271TOTAL               TRANSITO DESDE BD A CIUDADJARDIN                   271.000 IN1           0       0       0       0     271
+-----------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| UNO - VER 8.5.                                  FARMACIA DROGUERIA SAN JORGE LTDA                                  FECHA : 2022/07/13 |
+| UCIN3053.049                                     ** EXISTENCIAS EN CANTIDADES **                                   HORA  : 10:23 AM   |
+|                                                          ITEM/LOCALIZACION                                         PAGINA:       36   |
+|                                                                                                                                       |
+| C.O.           : 001    CENTRO                                                                                                        |
+| Localizacion   : 28 TRANSITO DESDE BD A MORICHAL                                                                                      |
+| Categoria      : 3  MERCANCIA NO FABRICADA POR LA EMPRESA                                                          * POR CODIGO     * |
++---------------------------------------------------------------------------------------------------------------------------------------+
+|ITEM               D E S C R I P C I O N                UBICA        CANTIDAD U.M    ASIGNADO   OC/OP REQUER. COMPROM DISPON.          |
+|                   UBICACION LOTE          FEC_VCTO                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
+025702              DHEMS PROT SOLAR ANTIEDAD SPF50+ 50ML                1     CJA           0       0       0       0       1
+025735              DHEMS PROT SOLAR ANTIEDAD SPF50+ COLOR 5             1     CJA           0       0       0       0       1
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               MERCANCIA NO FABRICADA POR LA EMPRESA                2.000 IN1           0       0       0       0       2TOTAL               MERCANCIA NO FABRICADA POR LA EMPRESA                2.000 IN1           0       0       0       0       2
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               TRANSITO DESDE BD A MORICHAL                         2.000 IN1           0       0       0       0       2TOTAL               TRANSITO DESDE BD A MORICHAL                         2.000 IN1           0       0       0       0       2
+-----------------------------------------------------------------------------------------------------------------------------------------
+TOTAL               CENTRO                                           6,845.000 IN1           0       0       0       0    6845TOTAL               CENTRO                                           6,845.000 IN1           0       0       0       0    6845
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------- FIN LISTADO -------------------------------------------------------------
